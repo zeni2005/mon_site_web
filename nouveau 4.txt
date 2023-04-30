@@ -1,0 +1,8 @@
+<html>
+  <head>
+    <title>Ma page Web</title>
+    <script type="text/javascript">
+      // Votre code Javascript ici.
+    </script>
+  </head>
+</html>
